@@ -11,7 +11,7 @@ int main() {
     std::string userYearStr;
 
     // Basic info about the program
-    std::cout << "This is a program that is used for calculating a leap year.\n ";
+    std::cout << "This is a program calculates a leap year.\n ";
 
     // Gets the user's year
     std::cout << "Input the year you wish to calculate: ";
